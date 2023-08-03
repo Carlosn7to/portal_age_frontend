@@ -64,7 +64,7 @@ export default defineComponent({
     border-radius: 1vw;
     border: 1px solid #5F687A30;
     padding: 2vh 1vw;
-    @include flex(column, flex-start, initial, 1vh);
+    @include flex(column, space-between, initial, 1vh);
 
     .title {
       width: 100%;
@@ -80,7 +80,7 @@ export default defineComponent({
       width: 100%;
 
       span {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         color: #000;
         font-weight: 600;
       }

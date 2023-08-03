@@ -80,7 +80,7 @@ export default defineComponent({
     width: 100%;
     height: 85%;
     display: grid;
-    grid-template-columns: 75% 25%;
+    grid-template-columns: 70% 30%;
     grid-template-rows: 15% 85%;
     grid-template-areas: 'D S'
                           'G S';

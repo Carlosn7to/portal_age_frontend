@@ -102,6 +102,18 @@ h2 {
   font-size: 1.4rem;
 }
 
+/*   SCROLL BAR   */
+::-webkit-scrollbar-track {
+  background-color: #F4F4F4;
+}
+::-webkit-scrollbar {
+  width: 4px;
+  background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+  background: #dad7d7;
+}
+
 
 .container {
   width: 100vw;
